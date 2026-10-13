@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lazy"
+  short_description: "Do the suggested action for me instead of explaining it."
+  default_prompt: "Use $lazy to do what you just suggested yourself."
+policy:
+  allow_implicit_invocation: false
