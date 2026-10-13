@@ -119,7 +119,8 @@ lazy/
 │   └── lazy-ai-chat-version.md
 └── assets/
     ├── lazy-demo.gif
-    └── lazy-demo.mp4
+    ├── lazy-demo.mp4
+    └── lazy-promise.png
 ```
 
 ## More AI workflow skills
