@@ -128,7 +128,7 @@ Small, portable skills for Claude Code, Codex, and any AI assistant.
 
 | Skill | What it does |
 | --- | --- |
-| [Noob](https://github.com/arthurglaizal/noob) | Turns the last AI answer into something immediately understandable. |
+| [Noob](https://github.com/arthurglaizal/noob) | Rewrites the last AI answer in simple, concise language. |
 | [WaitGo](https://github.com/arthurglaizal/wait-go) | Batches your instructions, then executes only when you say go. |
 | [Session Recap](https://github.com/arthurglaizal/session-recap) | Recaps what you did in the current session and what to pick up next. |
 | [Ask Mode](https://github.com/arthurglaizal/ask-mode) | Lets you question your codebase without the assistant changing anything. |
